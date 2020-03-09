@@ -1,2 +1,4 @@
 # quick-sort
-Para relembrar
+Algorítmos para relembrar
+
+# Quick Sort em C
